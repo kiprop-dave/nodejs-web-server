@@ -1,0 +1,16 @@
+2022|11|05	13:44:09	f0b78237-a2df-438c-ace8-ba8bf6fc7b18	 /	GET
+2022|11|05	13:44:09	5f7b4ec3-de38-4be0-b2e0-c9678c4e04c9	 /css/style.css	GET
+2022|11|05	13:45:07	0831f590-ded4-438f-8434-78c1be46bc0d	 /	GET
+2022|11|05	13:45:07	03c64dd4-8b6e-4a6d-8176-33e19855a861	 /css/style.css	GET
+2022|11|05	13:46:36	cd2631d4-fdcd-43bd-b790-85229f8dd035	 /new-page.html	GET
+2022|11|05	13:46:36	2631258c-f28a-4e5a-868d-bd962ac2010c	 /css/style.css	GET
+2022|11|05	13:46:36	9a287071-8cec-4ecd-bdec-4a8bf7505dac	 /img/img1.jpg	GET
+2022|11|05	13:49:43	9633a695-707a-4d04-b774-5be86276571a	 /new-page.html	GET
+2022|11|05	13:50:10	6b3bb90b-cd1d-4ecd-9913-61715003996c	 /new-page.html	GET
+2022|11|05	13:50:11	f7206299-0219-4a53-aeef-6faee01a7399	 /css/style.css	GET
+2022|11|05	13:50:11	28c6a4a1-7acd-40f7-b8f7-fb4a3d98b5cf	 /img/img1.jpg	GET
+2022|11|05	13:51:25	a84377a3-5847-4529-989b-539fa81593c3	 /	GET
+2022|11|05	13:51:25	0a0df1cc-285c-42f2-ac98-1913d3fffcab	 /css/style.css	GET
+2022|11|05	13:51:34	f0da925b-c3c5-438f-a7a2-5dc4704381a6	 /data/data.json	GET
+2022|11|05	13:52:06	1aede6ab-f0f8-46f1-abb8-30a841c16c2a	 /	GET
+2022|11|05	13:52:06	468d1348-c2ac-4f04-bf85-9542791eaaef	 /css/style.css	GET
